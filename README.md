@@ -1,2 +1,3 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del M2 de Henry
+Lucas Acosta Ortegoza  
+Este proyecto es una prueva
+
